@@ -8,6 +8,8 @@ nav{
     background-color: azure;
 
 }
-body.homepage{
     
+img{
+    max-width: 100%;
+    height: auto;
 }
