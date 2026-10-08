@@ -5,11 +5,14 @@ head{
 }
 nav{
     font-family: 'Times New Roman', Times, serif;
-    background-color: azure;
+    background-color: rgb(41, 146, 146);
 
 }
     
 img{
     max-width: 100%;
     height: auto;
+}
+body.homepage{
+    background-color: burlywood;
 }
