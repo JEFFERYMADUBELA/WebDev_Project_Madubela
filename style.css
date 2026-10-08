@@ -1,0 +1,13 @@
+/*adding new styles to html webpages*/
+head{
+    text-align: centre;
+    color: rgb(89, 102, 146);
+}
+nav{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: azure;
+
+}
+body.homepage{
+    
+}
