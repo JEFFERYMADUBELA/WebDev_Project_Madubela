@@ -9,11 +9,14 @@ nav{
     text-decoration-color: blueviolet;
 
 }
+h1{
+    colour:rgb(162, 63, 141);
+}
     
 img{
     max-width: 70%;
     height: auto;
 }
 body.homepage{
-    background-color: burlywood;
+    background-color: rgb(90, 64, 30);
 }
