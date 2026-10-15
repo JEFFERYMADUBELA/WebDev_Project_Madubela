@@ -32,9 +32,11 @@ body.homepage{
 body{
     background-color: #1a1a1a;
     color: white;
-    padding: 20;
-    height: auto;
+    padding: 20px;
+    min-height: 100vh;
     width: auto;
     background-image: url('https://images.unsplash.com/photo-1580014317999-e9f1936787a5?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D');
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
