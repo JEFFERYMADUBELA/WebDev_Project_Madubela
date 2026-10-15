@@ -40,3 +40,8 @@ body{
     background-position: center;
     background-repeat: no-repeat;
 }
+.carbuttons{
+position: fixed;
+bottom: 30px;
+left: 0;
+}
