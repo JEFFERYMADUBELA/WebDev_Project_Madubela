@@ -32,6 +32,9 @@ body.homepage{
 body{
     background-color: #1a1a1a;
     color: white;
+    padding: 20;
+    height: auto;
+    width: auto;
     background-image: url(image101.jpg);
     background-size: cover;
 }
