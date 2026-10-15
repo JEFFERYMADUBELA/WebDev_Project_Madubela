@@ -1,5 +1,5 @@
 /*adding new styles to html webpages*/
-head{
+#head{
     text-align: center;
     color: rgb(89, 102, 146);
 }
