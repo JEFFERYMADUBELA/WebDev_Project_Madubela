@@ -29,3 +29,7 @@ body.homepage{
     color: rgb(89,182,146);
     border: 4px solid rgb(89,182,146);
 }
+body{
+    background-color: #1a1a1a;
+    color: white;
+}
