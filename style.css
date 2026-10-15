@@ -5,6 +5,7 @@
 }
 nav a {
     font-family: 'Times New Roman', Times, serif;
+    background-color: transparent;
     text-decoration-color: blueviolet;
     padding: 10px;
 
