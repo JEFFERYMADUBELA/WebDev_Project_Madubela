@@ -32,4 +32,6 @@ body.homepage{
 body{
     background-color: #1a1a1a;
     color: white;
+    background-image: url(image101.jpg);
+    background-size: cover;
 }
