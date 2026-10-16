@@ -1,12 +1,12 @@
 /*adding new styles to html webpages*/
 #head{
     text-align: center;
-    color: rgb(89, 102, 146);
+    color: rgba(181, 80, 25, 0.817);
 }
 nav a {
     font-family: 'Times New Roman', Times, serif;
     background-color: transparent;
-    text-decoration-color: blueviolet;
+    text-decoration-color: rgb(223, 221, 225);
     padding: 10px;
 
 }
