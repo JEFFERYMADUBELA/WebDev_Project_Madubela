@@ -1,7 +1,7 @@
 /*adding new styles to html webpages*/
 #head{
     text-align: center;
-    color: rgba(181, 80, 25, 0.817);
+    color: #f4f2f1d0;
 }
 nav a {
     font-family: 'Times New Roman', Times, serif;
@@ -11,7 +11,7 @@ nav a {
 
 }
 h1{
-    color:rgb(162, 63, 141);
+    color:rgb(235, 229, 233);
     text-align:center;
 }
     
