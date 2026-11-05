@@ -1,7 +1,8 @@
 /*adding new styles to html webpages*/
 #head{
     text-align: center;
-    color: #f4f2f1d0;
+    color: #ffffff;
+    background-color: #1a1a1a;
 }
 nav a {
     font-family: 'Times New Roman', Times, serif;
